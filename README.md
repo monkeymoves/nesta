@@ -2,8 +2,8 @@
 
 This project analyses the provided CSV files:
 
-- nh_monthly_variables.csv
-- ifs_quarterly_variables.csv
+- lfs_monthly_variables.csv
+- lfs_quarterly_variables.csv
 - qual_survey_responses.csv
 - variable_names.csv
 
