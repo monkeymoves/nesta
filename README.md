@@ -20,10 +20,7 @@ Place the CSVs in `data/raw/`.
 
 ## Optional: Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monkeymoves/nesta/blob/main/notebooks/01_exploration.ipynb)
-
-(Replace the link with your GitHub repo path once uploaded.)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monkeymoves/nesta/blob/master/notebooks/01_exploration.ipynb)
 ## Project Layout
 
 ```
