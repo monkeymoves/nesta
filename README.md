@@ -1,6 +1,6 @@
 # Interview Data Analysis Project
 
-This project analyses the four provided CSV files:
+This project analyses the provided CSV files:
 
 - nh_monthly_variables.csv
 - ifs_quarterly_variables.csv
@@ -20,7 +20,7 @@ Place the CSVs in `data/raw/`.
 
 ## Optional: Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/interview-project/blob/main/notebooks/01_exploration.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monkeymoves/nesta/blob/main/notebooks/01_exploration.ipynb)
 
 (Replace the link with your GitHub repo path once uploaded.)
 
