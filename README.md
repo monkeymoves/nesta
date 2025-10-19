@@ -46,7 +46,7 @@ To run this project locally, you will need Python 3.8+ installed.
 
 Alternatively, you can explore the analysis interactively in your browser using Google Colab—no local installation is required.
 
-[](https://colab.research.google.com/github/monkeymoves/nesta/blob/master/notebooks/01_exploration.ipynb)
+[(https://colab.research.google.com/github/monkeymoves/nesta/blob/master/notebooks/01_exploration.ipynb)]
 
 **Note:** To run the thematic analysis cells yourself, you will need to provide your own OpenAI API key. For convenience, a sample export has already been provided in the notebook and within the main [analysis document](https://docs.google.com/document/d/12BrwzeASjTUqxsiNHTftcSD7gW4P4OOKcdcvdLcTebY/edit?tab=t.0).
 
