@@ -1,11 +1,9 @@
 # Interview Data Analysis Project
 
-This project analyses the provided CSV files:
+This project is supported by this analysis document [https://docs.google.com/document/d/12BrwzeASjTUqxsiNHTftcSD7gW4P4OOKcdcvdLcTebY/edit?usp=sharing]
 
-- lfs_monthly_variables.csv
-- lfs_quarterly_variables.csv
-- qual_survey_responses.csv
-- variable_names.csv
+UK Labour Force Survey data has been analysed to support a hypothetical investigation into a new Nesta Mission around **"A Growing Economy"**
+more informnation here: [https://www.ons.gov.uk/surveys/informationforhouseholdsandindividuals/householdandindividualsurveys/labourforcesurvey]
 
 ## Quickstart
 
@@ -20,6 +18,10 @@ Place the CSVs in `data/raw/`.
 
 ## Optional: Open in Google Colab
 
+If you have a google account you can use the free Colab notebook to interactively explore this analysis
+
+You will need an OpenAI API key to test the themeatic analysis, otherwise a sample export has been provided in the rendered notebook and tab in this document: [https://docs.google.com/document/d/12BrwzeASjTUqxsiNHTftcSD7gW4P4OOKcdcvdLcTebY/edit?tab=t.0]
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monkeymoves/nesta/blob/master/notebooks/01_exploration.ipynb)
 ## Project Layout
 
@@ -31,10 +33,6 @@ interview_project/
 │   └── processed/
 ├── notebooks/
 │   └── 01_exploration.ipynb
-├── reports/
-│   └── figures/
-├── src/
-│   └── data_io.py
 ├── requirements.txt
 └── README.md
 ```
