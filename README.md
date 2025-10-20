@@ -43,7 +43,7 @@ To run this project locally, you will need Python 3.8+ installed.
 
 ##  Open in Google Colab
 
-Alternatively, you can explore the analysis interactively in your browser using Google Colab—no local installation is required.
+Alternatively, you can explore the analysis interactively in your browser using Google Colab, no local installation required.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monkeymoves/nesta/blob/main/notebooks/01_exploration.ipynb)
 
@@ -53,7 +53,7 @@ Alternatively, you can explore the analysis interactively in your browser using 
 
 ## Project Structure
 
-The project follows a standard data science directory structure:
+This repository follows industry-standard data science project conventions, promoting reproducibility and maintainability. While not all directories are actively used in this specific implementation, the structure provides a scalable framework for future development.
 
 ```
 interview_project/
